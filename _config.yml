@@ -24,6 +24,13 @@ github_username:  guidomb
 
 # Build settings
 markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    span:
+      line_numbers: true
+    block:
+      line_numbers: false
 theme: minima
 plugins:
   - jekyll-feed
