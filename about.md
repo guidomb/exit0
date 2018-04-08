@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img class="about-profile" src="/assets/img/guidomb.jpg" alt="profile picture">
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Guitarist and Software Engineer. Co-founder at [Wolox](http://wolox.co). Previously CTO & Cofounder at [Syrmo](http://syrmo.com). You can listen me ramble at [Inherited Composition](http://inheritedcomposition.com).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I love to build things and although my expertise is software engineering I also like to get involved in UI/UX design. I learned a lot about manufacturing and building a hardware product while being a co-founder and CTO at [Syrmo](http://syrmo.com), a tracker device for action sports.
 
+I believe that technology gives us the power to make an impact in the world and break with the status quo. I think is our responsibility to live up to the challenge and do something about it.
 
-[jekyll-organization]: https://github.com/jekyll
+When I'm not writing code or thinking about tech I like to play the guitar, practice kite surfing or play football (soccer) with my friends.
