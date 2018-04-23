@@ -244,3 +244,5 @@ If we want to add or remove an instance variable from `RangeMapper` all we have 
 ### To sum up
 
 The idea of this blog post is to show a particular case where there are invariants that cannot be easily enforced by the language without having some sort of manual sync process and show possible solutions. I'd love to know other cases where you faced a similar situation and see how you resolved it.
+
+> Check the [following post](/swift/2018/04/23/advanced-code-generation.html) where I point out a bug in the Sourcery's template and explain how to solve it and how to write more advanced templates. 
