@@ -189,7 +189,7 @@ extension {{ type.name }} {
 
   static let rangesCount = {{ type.instanceVariables.count }}
 
-  public var ranges: [RangeMapper] {
+  public var ranges: [SpreadSheetRange] {
     return [
       {% for variable in type.instanceVariables %}{% if variable.type.name == "SpreadSheetRange" %} {{ variable.name }}{% if not forloop.last %},{% endif %}{% endif %}
       {% endfor %}
